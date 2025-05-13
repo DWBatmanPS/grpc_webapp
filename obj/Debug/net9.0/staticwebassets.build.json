@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1+40Hyk66atuN1VjvfM485bYbzl/CsKwcswopx4z25Y=",
+  "Source": "grpc_webapp",
+  "BasePath": "_content/grpc_webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
