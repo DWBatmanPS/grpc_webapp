@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("grpc_webapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1531b48cadb596629708729dc50eb97a338c9912")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c496fa59b1b4dff59a7cdf3db43a8ba0b843c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("grpc_webapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("grpc_webapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
