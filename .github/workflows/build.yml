@@ -27,3 +27,4 @@ jobs:
       - name: Push Docker image
         run: |
           docker push ghcr.io/${{ env.ORG_LC }}/grpc_webapp:latest
+          
